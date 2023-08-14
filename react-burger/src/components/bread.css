@@ -1,0 +1,37 @@
+.basebread {
+    background-color: #8B4513; /* Brown color */
+    padding: 2rem;
+    font-size: 2rem;
+    color: white;
+    display: inline-block;
+    border-radius: 2rem;
+    max-width: 150px;
+  }
+  .tomato {
+    background-color: #FF0000; /* Red color */
+    padding: 2rem;
+    font-size: 2rem;
+    color: white;
+    display: inline-block;
+    border-radius: 2rem;
+    max-width: 150px;
+  }
+
+  .lettuce {
+    background-color: #008000; /* Green color */
+    padding: 2rem;
+    font-size: 2rem;
+    color: white;
+    display: inline-block;
+    border-radius: 2rem;
+    max-width: 150px;
+  }
+  .meat {
+    background-color: #e9a270; /* Brown color */
+    padding: 2rem;
+    font-size: 2rem;
+    color: white;
+    display: inline-block;
+    border-radius: 2rem;
+    max-width: 150px;
+  }
