@@ -1,37 +1,54 @@
 .basebread {
     background-color: #8B4513; /* Brown color */
-    padding: 2rem;
+    /* padding: 2rem;
     font-size: 2rem;
     color: white;
     display: inline-block;
     border-radius: 2rem;
-    max-width: 150px;
+    display: inline-block;
+    border-radius: 2rem;
+    max-width: 800px;  */
+    color: white;
+    border-radius: 2rem;
+    max-height: 4000px;
+    max-width: 1900px;
   }
+  
+
   .tomato {
     background-color: #FF0000; /* Red color */
-    padding: 2rem;
+    /* padding: 2rem;
     font-size: 2rem;
     color: white;
     display: inline-block;
     border-radius: 2rem;
-    max-width: 150px;
+    max-width: 150px; */
+    color: white;
+    max-height: 1000px;
+    max-width: 1900px;
   }
 
   .lettuce {
     background-color: #008000; /* Green color */
-    padding: 2rem;
+    /* padding: 2rem;
     font-size: 2rem;
     color: white;
     display: inline-block;
     border-radius: 2rem;
-    max-width: 150px;
+    max-width: 150px; */
+    color: white;
+    max-height: 1000px;
+    max-width: 1900px;
   }
   .meat {
     background-color: #e9a270; /* Brown color */
-    padding: 2rem;
+    /* padding: 2rem;
     font-size: 2rem;
     color: white;
     display: inline-block;
     border-radius: 2rem;
-    max-width: 150px;
+    max-width: 150px; */
+    max-height: 1000px;
+    max-width: 1900px;
+    color: white;
   }
