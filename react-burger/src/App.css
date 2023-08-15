@@ -37,6 +37,7 @@
 .ingredient {
   font-size: 2rem;
   cursor: pointer;
+  padding: 0.5rem;
 }
 .move-button {
   background-color: #4CAF50; /* Green color for buttons */
